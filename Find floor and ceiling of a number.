@@ -38,8 +38,7 @@ int main()
 
 WAP to find floor and ceiling of a number by macrosubstitution.
 	
-	
-	#define CEILING(x) ((x>0)?(x+1):x);
+#define CEILING(x) ((x>0)?(x+1):x);
 #define FLOOR(x) ((x>0)?x:(x-1));
 #include<iostream>
 using namespace std;
