@@ -1,4 +1,6 @@
 WAP to find floor and ceiling of a number using function.
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
