@@ -54,3 +54,4 @@ int main()
 	cout<<"floor is:"<<FLOOR(x);
 	cout<<endl<<"ceiling is:"<<CEILING(x);
 }
+
